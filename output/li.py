@@ -1,0 +1,9 @@
+x=int(input("x="))
+y=int(input("y="))
+sum=0
+while(x>=1):
+    if(x%2==0):
+        sum=sum+0
+    x/=2
+    y*=2
+print(sum)       
